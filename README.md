@@ -1,6 +1,6 @@
 # Hi <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="90px"/> I'm Danny</h1>
 Hello, I'm Danny - a back-end developer with a passion for architecting robust server-side solutions.  
-<img src="./assets/golang.png" width="90px" >
+<img src="./assets/golang.png" width="120px" >
 
 ## About me
 
